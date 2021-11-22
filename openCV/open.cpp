@@ -22,13 +22,11 @@ string input()
 	setlocale(LC_ALL, "Russian");
 	string filename;
 	cout << "\nВведите название файла и нажмите enter" << endl;
-	cout << "file.jpg" << endl;
-	cout << "sf.jpg" << endl;
-	cout << "sf2.jpg" << endl;
-	cout << "road.png" << endl;
-	cout << "lisii.png" << endl;
-	cout << "jir.jpg" << endl;
-	cout << "jir2.jpg" << endl;
+	cout << "Gryffindor.jpg" << endl;
+	cout << "Hufflepuff.jpg" << endl;
+	cout << "harry potter.jpg" << endl;
+	cout << "Slytherin.png" << endl;
+	cout << "Ravenclaw.png" << endl;
 
 	cin >> filename;
 
